@@ -1,0 +1,1 @@
+num1 = int(print('Digite o primeiro número:'))
