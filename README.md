@@ -1,3 +1,3 @@
 Curso de desenvolvimento de sistemas.
-Unidade Curricular Back-End. 
+Unidade Curricular Programação Web Back-End. 
 Linguagem Python
