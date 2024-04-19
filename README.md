@@ -1,23 +1,8 @@
  Bem vindo! 
  
-Improve your README.md profile with these amazing badges. See a sample here
+Página da Unidade Curricular Programação Web Back-End.
 
-   GitHub Repo stars   
-
-How to use?
-
-    Get a URL:
-        You can use Ctrl F (Windows) or ⌘ F (mac) for find one
-
-    Create a image tag:
-
-<img src="{BadgeURLHere}" />
-
-or
-
-![image]({BadgeURLHere})
-
-    Paste on your profile 🎉
+Ministrado no SESI, novo ensino Médio.
 
 Menu
 
